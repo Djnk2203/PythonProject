@@ -26,4 +26,4 @@ if __name__ == '__main__':
     print(LaSNT(n))
     print('Cac so nguyen to <= %d la' % (n))
     InSNT(n)
-    print("So nguyen to nho nhat > {} la {}".format(n,TimSNT(n)))
+    print("\nSo nguyen to nho nhat > {} la {}".format(n,TimSNT(n)))
